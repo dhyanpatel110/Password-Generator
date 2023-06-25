@@ -1,5 +1,5 @@
 # Password Generator ![GitHub repo size](https://img.shields.io/github/repo-size/dhyanpatel110/Password-Generator)
-The Password Generator App provides a random password up to 64 characters. You can add uppercase, Lowercase, numbers, and Symbols.
+The Password Generator App provides a random password up to 64 characters. You can add Uppercase, Lowercase, Numbers, and Symbols.
 
 # Snapshot
 
